@@ -24,4 +24,4 @@ Si on met une précision de 1, toutes les requêtes seront faites en même temps
 
 ### Le timeout
 
-Il s'ahit du temps après lequel une requête est abandonnée. Plus on a de scan à faire tourner en même temps, plus le timeout doit être élevé, à cause du ralentissement du navigateur.
+Il s'agit du temps après lequel une requête est abandonnée. Plus on a de scan à faire tourner en même temps, plus le timeout doit être élevé, à cause du ralentissement du navigateur.
